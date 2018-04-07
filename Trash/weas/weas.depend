@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523077561 source:c:\users\inigo\desktop\weas\main.cpp
+	<iostream>
+	<string.h>
+	"Encriptado.h"
+
+1523076681 c:\users\inigo\desktop\weas\include\encriptado.h
+	<iostream>
+	<string.h>
+
+1523077561 source:c:\users\inigo\desktop\weas\src\encriptado.cpp
+	"Encriptado.h"
+
