@@ -27,6 +27,12 @@ int main()
     fichero_temporal.close();
     remove("texto.txt");
     rename("textotemp.txt", "texto.txt");*/
+    ///Proceso p(4,5,"Hola como estas yo me llamo ");
+    ///p.encriptacion();
+    /*string prueba = "Hola soy una prueba";
+    prueba[1]='p';
+    cout <<prueba[1]<<" - "<<prueba[4]<<" - "<<prueba[9]<<endl;*/
+
 
 
     return 0;

@@ -13,3 +13,17 @@
 	<iostream>
 	<string.h>
 
+1523695887 source:d:\programming\algebra-abstracta\trash\prueba_abstracta001\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"Proceso.h"
+
+1523674675 d:\programming\algebra-abstracta\trash\prueba_abstracta001\include\proceso.h
+	<iostream>
+	<string.h>
+
+1523696340 source:d:\programming\algebra-abstracta\trash\prueba_abstracta001\src\proceso.cpp
+	"Proceso.h"
+
