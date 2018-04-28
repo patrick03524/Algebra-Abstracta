@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1524892023 source:d:\programming\c++\abstracta003\src\affin.cpp
+	"Affin.h"
+
+1524884945 d:\programming\c++\abstracta003\include\affin.h
+	"Func.h"
+
+1524880105 d:\programming\c++\abstracta003\include\func.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1524885410 source:d:\programming\c++\abstracta003\src\func.cpp
+	"Func.h"
+
+1524892246 source:d:\programming\c++\abstracta003\main.cpp
+	"Affin.h"
+	"Func.h"
+
