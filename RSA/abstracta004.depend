@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1525507798 source:d:\programming\c++\abstracta004\main.cpp
+	"RSA.h"
+	"Func2.h"
+
+1525505868 source:d:\programming\c++\abstracta004\src\rsa.cpp
+	"RSA.h"
+
+1525505000 d:\programming\c++\abstracta004\include\rsa.h
+	"Func2.h"
+
+1525498449 d:\programming\c++\abstracta004\include\func.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1525507665 d:\programming\c++\abstracta004\include\func2.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
+1525498464 source:d:\programming\c++\abstracta004\src\func.cpp
+	"Func.h"
+
+1525507670 source:d:\programming\c++\abstracta004\src\func2.cpp
+	"Func2.h"
+
