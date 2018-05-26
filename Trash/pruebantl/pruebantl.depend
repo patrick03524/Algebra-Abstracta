@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1527351089 source:d:\programming\c++\pruebantl\main.cpp
+	"Func.h"
+
+1527347243 d:\programming\c++\pruebantl\include\func.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<NTL/ZZ.h>
+
+1527309995 source:d:\programming\c++\pruebantl\src\func.cpp
+	"Func.h"
+
