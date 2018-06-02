@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1527934228 source:d:\programming\c++\pruebantl002\main.cpp
+	"RSA_Blocks.h"
+
+1527934357 source:d:\programming\c++\pruebantl002\src\func.cpp
+	"Func.h"
+
+1527934071 d:\programming\c++\pruebantl002\include\func.h
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<NTL/ZZ.h>
+	<fstream>
+	<sstream>
+
+1527934228 source:d:\programming\c++\pruebantl002\src\rsa_blocks.cpp
+	"RSA_Blocks.h"
+
+1527927238 d:\programming\c++\pruebantl002\include\rsa_blocks.h
+	"Func.h"
+
+1527937785 source:d:\programming\c++\rsa_bloques_porqueria_de_programa\main.cpp
+	"RSA_Blocks.h"
+
+1527927238 d:\programming\c++\rsa_bloques_porqueria_de_programa\include\rsa_blocks.h
+	"Func.h"
+
+1527936616 d:\programming\c++\rsa_bloques_porqueria_de_programa\include\func.h
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<NTL/ZZ.h>
+	<fstream>
+	<sstream>
+
+1527937010 source:d:\programming\c++\rsa_bloques_porqueria_de_programa\src\rsa_blocks.cpp
+	"RSA_Blocks.h"
+
+1527936605 source:d:\programming\c++\rsa_bloques_porqueria_de_programa\src\func.cpp
+	"Func.h"
+
