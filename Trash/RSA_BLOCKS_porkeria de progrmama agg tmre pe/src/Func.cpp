@@ -225,7 +225,7 @@ ZZ phi_euler_chidori(ZZ n)
     }
     return result;
 }
-
+/*
 ///Funciones para aleatorios ##############################################################################
 ZZ convertir_decimal(vector <bool> a, int bits_num)
 {
@@ -392,7 +392,7 @@ ZZ des(int bits){
         actual = num_56bits;
     }
     return des(bits);
-}
+}*/
 
 int rdtsc() ///rand de ciclos utilizados por procesador desde el inicio
 {

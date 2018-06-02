@@ -3,8 +3,8 @@
 
 int main()
 {
-    srand(rdtsc());
-    ///srand(time(NULL));
+    ///srand(rdtsc());
+    srand(time(NULL));
     int x = 1024; ///Numero de Bits
     cout <<"Generando claves..."<<endl;
     RSA_Blocks A(x);

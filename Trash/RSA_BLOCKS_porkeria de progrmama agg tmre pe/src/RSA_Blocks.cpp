@@ -1,7 +1,7 @@
 #include "RSA_Blocks.h"
 
 RSA_Blocks::RSA_Blocks(int bits){
-    /*ZZ P;
+    ZZ P;
     P = my_generar_Aleatorios(bits);
     while(!comprobar_primo(p)){
         P = my_generar_Aleatorios(bits);
@@ -28,7 +28,7 @@ RSA_Blocks::RSA_Blocks(int bits){
     this -> e = E;
     this -> d = inversa(e, phi_N);
     ///cout <<" D :"<<d<<endl;*/
-    ZZ P = des(bits);
+    /*ZZ P = des(bits);
     ZZ Q = des(bits);
     this -> p = P;
     this -> q = Q;
@@ -42,7 +42,7 @@ RSA_Blocks::RSA_Blocks(int bits){
         e = des(bits);
     }
     this -> e = e;
-    this -> d = inversa(e, phi_N);
+    this -> d = inversa(e, phi_N);*/
 }
 RSA_Blocks::RSA_Blocks(ZZ a, ZZ b){
     this -> e = a;

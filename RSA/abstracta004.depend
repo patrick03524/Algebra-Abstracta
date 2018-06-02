@@ -29,3 +29,24 @@
 1525507670 source:d:\programming\c++\abstracta004\src\func2.cpp
 	"Func2.h"
 
+1527915460 source:d:\programming\algebra-abstracta\rsa\main.cpp
+	"RSA.h"
+	"Func2.h"
+
+1527915460 d:\programming\algebra-abstracta\rsa\include\rsa.h
+	"Func2.h"
+
+1527915460 d:\programming\algebra-abstracta\rsa\include\func2.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
+1527915460 source:d:\programming\algebra-abstracta\rsa\src\func2.cpp
+	"Func2.h"
+
+1527915460 source:d:\programming\algebra-abstracta\rsa\src\rsa.cpp
+	"RSA.h"
+

@@ -39,13 +39,13 @@ bool comprobar_primo(ZZ);
 ZZ phi_euler(ZZ,ZZ);
 ZZ phi_euler_chidori(ZZ);
 ///vector<ZZ> Criba_Erathostenes(ZZ,ZZ);
-
+/*
 ///Funciones para aleatorios
 ZZ convertir_decimal(vector <bool> a, int bits_num);
 void rotar_derecha(vector <bool> &vec, int indice, int elementos, int vueltas);
 void rotar_izquierda(vector <bool> &vec, int indice, int elementos, int vueltas);
 vector<bool> ga(int bits_seed, int bits_num, int particiones, int vueltas);
-ZZ des(int bits);
+ZZ des(int bits);*/
 int rdtsc();
 
 #endif // FUNC_H
